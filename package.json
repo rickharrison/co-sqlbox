@@ -1,0 +1,27 @@
+{
+  "name": "co-sqlbox",
+  "version": "0.0.1",
+  "description": "sqlbox enhancements for generators with co",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rickharrison/co-sqlbox"
+  },
+  "keywords": [
+    "co",
+    "generators",
+    "sqlbox",
+    "postgresql"
+  ],
+  "author": "Rick Harrison",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rickharrison/co-sqlbox/issues"
+  },
+  "homepage": "https://github.com/rickharrison/co-sqlbox",
+  "dependencies": {
+    "any-db": "~1.0.3",
+    "sqlbox": "~0.4.0-beta.3",
+    "thunkify": "0.0.1"
+  }
+}
